@@ -8,4 +8,5 @@ Eu sou o **Joaodacarrossa**, um desenvolvedor de **Bots** e **Websites** não tr
 
 🤝 **Equipe:** Comunidade Joaodacarrossa Co. LTDA.
 
+
 **Comunidade Joaodacarrossa Co. LTDA. & Joaodacarrossa** © Todos os direitos reservados.
