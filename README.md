@@ -1,12 +1,9 @@
 ## Olá!
 
-Eu sou o **Joaodacarrossa**, um desenvolvedor de **Bots** e **Websites** não treinado, eu estou usando linguagem **Python** para desenvolver meus bots
+Eu sou o **Joaodacarrossa**, um desenvolvedor de **Bots** e **Websites** não treinado, eu estou usando linguagem **Python** e **TypeScript** para desenvolver meus bots
 
 💻 **Linguagens:** Python e JavaScript
 
-🔢 **Idade:** 9
+🔢 **Idade:** 10
 
-🤝 **Equipe:** Comunidade Joaodacarrossa Co. LTDA.
-
-
-**Comunidade Joaodacarrossa Co. LTDA. & Joaodacarrossa** © Todos os direitos reservados.
+🤝 **Equipe:** Comunidade Joaodacarrossa Co.
