@@ -2,7 +2,11 @@
 
 Eu sou o **Joaodacarrossa**, um desenvolvedor de **Bots** e **Websites** não treinado, eu estou usando linguagem **Python** e **TypeScript** para desenvolver meus bots
 
-💻 **Linguagens:** Python e JavaScript
+💻 **Linguagens:** Python, JavaScript e TypeScript
+
+👨‍🏫 **Querendo aprender:** Kotlin
+
+🌟 **Aprendendo agora**: Fazendo libs para o [NPMJS](https://npmjs.com/@jdslibs/log)
 
 🔢 **Idade:** 10
 
